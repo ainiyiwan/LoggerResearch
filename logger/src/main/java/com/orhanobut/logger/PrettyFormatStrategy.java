@@ -1,5 +1,8 @@
 package com.orhanobut.logger;
 
+/**
+ * 已阅
+ */
 public class PrettyFormatStrategy implements FormatStrategy {
 
   /**

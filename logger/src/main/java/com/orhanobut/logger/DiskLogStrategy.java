@@ -9,6 +9,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
+ * 已阅
  * Abstract class that takes care of background threading the file log operation on Android.
  * implementing classes are free to directly perform I/O operations there.
  */

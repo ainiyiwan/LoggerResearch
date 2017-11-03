@@ -24,6 +24,10 @@ import static com.orhanobut.logger.Logger.INFO;
 import static com.orhanobut.logger.Logger.VERBOSE;
 import static com.orhanobut.logger.Logger.WARN;
 
+/**
+ * 已阅
+ */
+
 class LoggerPrinter implements Printer {
 
   /**

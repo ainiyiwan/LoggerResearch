@@ -10,6 +10,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
+ * 已阅
  * CSV formatted file logging for Android.
  * Writes to CSV the following data:
  * epoch timestamp, ISO8601 timestamp (human-readable), log level, tag, log message.

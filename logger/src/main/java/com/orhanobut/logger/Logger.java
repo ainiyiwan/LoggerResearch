@@ -2,6 +2,7 @@ package com.orhanobut.logger;
 
 /**
  * But more pretty, simple and powerful
+ * 已阅
  */
 public final class Logger {
 
